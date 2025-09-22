@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou Gabriel Lima, aluno do 5° feríodo de Ciência da Conputação no DCMOP/UFS 👋
 
 <!--
 **PeDeLaranjaLima/PeDeLaranjaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
