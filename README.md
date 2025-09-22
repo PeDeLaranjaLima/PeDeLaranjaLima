@@ -1,4 +1,4 @@
-## Olá, sou Gabriel Lima, aluno do 5° período de Ciência da Conputação no DCOMP/UFS 👋
+## Olá, sou Gabriel Lima, aluno do 5° período de Ciência da Computação no DCOMP/UFS 👋
 
 <!--
 **PeDeLaranjaLima/PeDeLaranjaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
