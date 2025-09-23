@@ -1,16 +1,18 @@
 ## Olá, sou Gabriel Lima, aluno do 5° período de Ciência da Computação no DCOMP/UFS 👋
 
-<!--
-**PeDeLaranjaLima/PeDeLaranjaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e inovação, com interesse especial nas áreas de processamento de imagem, inteligência artificial e simulações multifísicas. Desenvolvi projetos de pesquisa na área de processamento de imagem pelo programa PIBIT, ampliando meus conhecimentos técnicos e científicos.
 
-Here are some ideas to get you started:
+Atualmente sou membro do grupo de pesquisa LACS, onde contribuo para iniciativas voltadas a aprendizado de máquina, visão computacional e análise de dados. Além disso, atuo como artista de pixel art, unindo criatividade e tecnologia para criar experiências visuais únicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo experiência em diversas linguagens de programação, incluindo C#, C, Java, HTML, JavaScript, CSS, Python e R, e estou sempre em busca de aprender novas ferramentas e aprimorar minhas competências.
+
+Atualmente ocupo o cargo de Assessor da Diretoria de Pesquisa na Innovation Hub, apoiando projetos que conectam pesquisa acadêmica e mercado.
+
+Competências-chave:
+
+* Processamento de Imagem;
+* Inteligência Artificial;
+* Computação Gráfica;
+* Pixel Art e Design Digital;
+* Programação Multiplataforma;
+* Pesquisa e Inovação Tecnológica.
