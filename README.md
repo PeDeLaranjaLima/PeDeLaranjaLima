@@ -20,6 +20,9 @@ Competências-chave:
 * Programação Multiplataforma;
 * Pesquisa e Inovação Tecnológica.
 
-<div style="text-align:center"> <img width="100" height="100" alt="morte" src="https://github.com/user-attachments/assets/2386e25c-c242-4ac6-99ff-88f206bda1bd"/> </div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2386e25c-c242-4ac6-99ff-88f206bda1bd" width="100" height="100" alt="morte">
+</p>
+
 
 
